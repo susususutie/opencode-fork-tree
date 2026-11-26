@@ -1,6 +1,6 @@
 {
   "name": "opencode-fork-tree",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "OpenCode TUI plugin: browse session forks as a tree, jump between branches, and fork any user message",
   "type": "module",
   "license": "MIT",

@@ -2,7 +2,7 @@
 
 OpenCode TUI 插件：把会话的 fork 分支画成一棵树。侧栏随时看结构，`/forks` 里跨分支搜索、跳转，并在任意一条 user message 处继续分叉。
 
-![Conversation tree](https://unpkg.com/opencode-fork-tree@0.1.1/assets/conversation-tree.png)
+![Conversation tree](https://fastly.jsdelivr.net/npm/opencode-fork-tree@0.1.2/assets/conversation-tree.png)
 
 > 截图使用 mock 数据渲染，不含真实会话。
 
@@ -33,7 +33,7 @@ opencode plugin remove opencode-fork-tree
 
 ### 侧栏
 
-![Forks sidebar](https://unpkg.com/opencode-fork-tree@0.1.1/assets/sidebar.png)
+![Forks sidebar](https://fastly.jsdelivr.net/npm/opencode-fork-tree@0.1.2/assets/sidebar.png)
 
 - 点击 `Forks` 标题打开对话树；点击左侧三角折叠/展开。
 - 点击任意分支行跳转到对应会话。
